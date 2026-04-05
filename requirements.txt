@@ -1,0 +1,5 @@
+# List of dependencies for the Streamlit application
+streamlit
+pandas
+numpy
+requests

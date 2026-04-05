@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Welcome to the Library System')
+st.title('Main Application')
 
-# Your app logic here
+# Your application code here

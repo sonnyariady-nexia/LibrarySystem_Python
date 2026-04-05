@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#FF4B4B"
+font="sans serif"
+[server]
+port = 8501
+enableCORS = false
